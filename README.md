@@ -1,0 +1,2 @@
+# netframework_regedit
+Regedit
