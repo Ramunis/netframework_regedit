@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistryLab3", "RegistryLab3\RegistryLab3.csproj", "{AAB7CD00-F24D-4709-9A73-13867867BC2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB7CD00-F24D-4709-9A73-13867867BC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB7CD00-F24D-4709-9A73-13867867BC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB7CD00-F24D-4709-9A73-13867867BC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB7CD00-F24D-4709-9A73-13867867BC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20BE6EEA-4DD2-4528-A960-553C124EA3CD}
+	EndGlobalSection
+EndGlobal
